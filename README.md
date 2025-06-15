@@ -24,8 +24,6 @@ pip install -r requirements.txt
 Contents of requirements.txt:
 
 nginx
-Copy
-Edit
 pyautogui
 requests
 botcity-core
