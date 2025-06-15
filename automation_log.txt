@@ -1,0 +1,414 @@
+2025-06-16 01:30:40,596 - INFO - Bot initialized with BotCity and PyAutoGUI
+2025-06-16 01:30:47,802 - INFO - 
+--- Processing 1/10 ---
+2025-06-16 01:31:06,193 - INFO - 
+--- Processing 2/10 ---
+2025-06-16 01:31:24,330 - INFO - 
+--- Processing 3/10 ---
+2025-06-16 01:31:42,677 - INFO - 
+--- Processing 4/10 ---
+2025-06-16 01:32:00,984 - INFO - 
+--- Processing 5/10 ---
+2025-06-16 01:32:18,681 - INFO - 
+--- Processing 6/10 ---
+2025-06-16 01:32:37,104 - INFO - 
+--- Processing 7/10 ---
+2025-06-16 01:32:54,816 - INFO - 
+--- Processing 8/10 ---
+2025-06-16 01:33:12,912 - INFO - 
+--- Processing 9/10 ---
+2025-06-16 01:33:30,822 - INFO - 
+--- Processing 10/10 ---
+2025-06-16 01:33:48,293 - INFO - 
+======================================================================
+2025-06-16 01:33:48,400 - INFO - ======================================================================
+2025-06-16 01:41:57,934 - INFO -  Initializing Windows Data Entry Bot...
+2025-06-16 01:41:57,936 - INFO -  Project directory ready: C:\Users\WIN 10\Desktop\tjm-project
+2025-06-16 01:41:57,936 - INFO - Bot initialized with BotCity and PyAutoGUI
+2025-06-16 01:41:57,936 - INFO -  Starting Automated Data Entry Bot
+2025-06-16 01:41:57,936 - INFO -  Project Requirements:
+2025-06-16 01:41:57,979 - INFO -  Fetching posts from JSONPlaceholder API...
+2025-06-16 01:41:57,979 - INFO -  API URL: https://jsonplaceholder.typicode.com/posts
+2025-06-16 01:41:58,226 - INFO -  Successfully fetched 100 posts
+2025-06-16 01:41:58,227 - INFO -  Selected first 10 posts for processing
+2025-06-16 01:41:58,230 - INFO -  Launching Notepad using BotCity...
+2025-06-16 01:41:58,276 - ERROR -  BotCity failed to launch Notepad
+2025-06-16 01:41:58,277 - INFO -  Trying PyAutoGUI fallback...
+2025-06-16 01:41:58,278 - INFO -  Launching Notepad using PyAutoGUI fallback...
+2025-06-16 01:42:05,002 - INFO -  Notepad launched successfully via PyAutoGUI
+2025-06-16 01:42:05,003 - INFO -  Processing 10 posts...
+2025-06-16 01:42:05,006 - INFO - 
+--- Processing 1/10 ---
+2025-06-16 01:42:05,026 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:05,028 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:10,608 - ERROR -  PyAutoGUI typing failed: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-06-16 01:42:10,609 - ERROR -  Failed to type content for post 1
+2025-06-16 01:42:11,610 - INFO - 
+--- Processing 2/10 ---
+2025-06-16 01:42:11,652 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:11,653 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:13,061 - ERROR -  PyAutoGUI typing failed: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-06-16 01:42:13,062 - ERROR -  Failed to type content for post 2
+2025-06-16 01:42:14,065 - INFO - 
+--- Processing 3/10 ---
+2025-06-16 01:42:14,105 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:14,105 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:22,763 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:42:22,764 - INFO -  Saving document as: post 3.txt
+2025-06-16 01:42:29,339 - ERROR -  File not found after save: post 3.txt
+2025-06-16 01:42:29,340 - ERROR -  Failed to save post 3
+2025-06-16 01:42:30,342 - INFO - 
+--- Processing 4/10 ---
+2025-06-16 01:42:30,384 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:30,385 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:37,130 - ERROR -  PyAutoGUI typing failed: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-06-16 01:42:37,131 - ERROR -  Failed to type content for post 4
+2025-06-16 01:42:38,136 - INFO - 
+--- Processing 5/10 ---
+2025-06-16 01:42:38,178 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:38,178 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:38,179 - ERROR -  PyAutoGUI typing failed: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-06-16 01:42:38,179 - ERROR -  Failed to type content for post 5
+2025-06-16 01:42:39,180 - INFO - 
+--- Processing 6/10 ---
+2025-06-16 01:42:39,195 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:39,196 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:39,196 - ERROR -  PyAutoGUI typing failed: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-06-16 01:42:39,197 - ERROR -  Failed to type content for post 6
+2025-06-16 01:42:40,197 - INFO - 
+--- Processing 7/10 ---
+2025-06-16 01:42:40,225 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:40,226 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:40,227 - ERROR -  PyAutoGUI typing failed: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-06-16 01:42:40,228 - ERROR -  Failed to type content for post 7
+2025-06-16 01:42:41,230 - INFO - 
+--- Processing 8/10 ---
+2025-06-16 01:42:41,275 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:41,275 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:41,275 - ERROR -  PyAutoGUI typing failed: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-06-16 01:42:41,276 - ERROR -  Failed to type content for post 8
+2025-06-16 01:42:42,278 - INFO - 
+--- Processing 9/10 ---
+2025-06-16 01:42:42,319 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:42:42,319 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:42:50,692 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:42:50,693 - INFO -  Saving document as: post 9.txt
+2025-06-16 01:42:54,763 - INFO -  User interrupted automation
+2025-06-16 01:42:56,713 - INFO - 
+======================================================================
+2025-06-16 01:42:56,713 - INFO -  AUTOMATION COMPLETED!
+2025-06-16 01:42:56,714 - INFO -  Successfully processed: 0/10 posts
+2025-06-16 01:42:56,715 - INFO -  Failed to process: 8/10 posts
+2025-06-16 01:42:56,715 - INFO -  Files location: C:\Users\WIN 10\Desktop\tjm-project
+2025-06-16 01:42:56,717 - INFO -  Created files (0):
+2025-06-16 01:42:56,718 - INFO - ======================================================================
+2025-06-16 01:42:56,718 - INFO - 
+ REQUIREMENTS VERIFICATION:
+2025-06-16 01:42:56,720 - INFO -  BotCity and PyAutoGUI used
+2025-06-16 01:42:56,721 - INFO -  Notepad launched and automated
+2025-06-16 01:42:56,722 - INFO -  JSONPlaceholder API data fetched
+2025-06-16 01:42:56,726 - INFO -  Blog post format with title and content
+2025-06-16 01:42:56,727 - INFO -  Files saved in tjm-project directory
+2025-06-16 01:42:56,729 - INFO -  10 posts processed in loop
+2025-06-16 01:42:56,731 - INFO -  Error handling implemented
+2025-06-16 01:42:56,732 - INFO -  Files named: post 1.txt, post 2.txt, etc.
+2025-06-16 01:51:37,721 - INFO -  Initializing Windows Data Entry Bot...
+2025-06-16 01:51:37,723 - INFO -  Project directory ready: C:\Users\WIN 10\Desktop\tjm-project
+2025-06-16 01:51:37,723 - INFO - Bot initialized with BotCity and PyAutoGUI
+2025-06-16 01:51:37,725 - INFO -  Starting Automated Data Entry Bot
+2025-06-16 01:51:37,725 - INFO -  Project Requirements:
+2025-06-16 01:51:37,726 - INFO -     Use BotCity and PyAutoGUI
+2025-06-16 01:51:37,726 - INFO -     Launch Notepad
+2025-06-16 01:51:37,727 - INFO -     Fetch data from JSONPlaceholder API
+2025-06-16 01:51:37,727 - INFO -     Format as blog posts with title and content
+2025-06-16 01:51:37,727 - INFO -     Save in tjm-project directory
+2025-06-16 01:51:37,728 - INFO -     Process first 10 posts
+2025-06-16 01:51:37,728 - INFO -     Error handling implemented
+2025-06-16 01:51:37,729 - INFO -  Fetching posts from JSONPlaceholder API...
+2025-06-16 01:51:37,729 - INFO -  API URL: https://jsonplaceholder.typicode.com/posts
+2025-06-16 01:51:39,438 - INFO -  Successfully fetched 100 posts
+2025-06-16 01:51:39,439 - INFO -  Selected first 10 posts for processing
+2025-06-16 01:51:39,440 - INFO -  Launching Notepad using BotCity...
+2025-06-16 01:51:39,493 - ERROR -  BotCity failed to launch Notepad
+2025-06-16 01:51:39,493 - INFO -  Trying PyAutoGUI fallback...
+2025-06-16 01:51:39,494 - INFO -  Launching Notepad using PyAutoGUI fallback...
+2025-06-16 01:51:46,219 - INFO -  Notepad launched successfully via PyAutoGUI
+2025-06-16 01:51:46,219 - INFO -  Processing 10 posts...
+2025-06-16 01:51:46,220 - INFO - 
+--- Processing 1/10 ---
+2025-06-16 01:51:46,223 - INFO -  Processing Post #1: ID 1
+2025-06-16 01:51:46,223 - INFO -  Title: sunt aut facere repellat provident occaecati excep...
+2025-06-16 01:51:46,224 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:51:46,224 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:51:54,896 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:51:54,896 - INFO -  Saving document as: post 1.txt
+2025-06-16 01:52:01,421 - INFO -  File saved successfully: post 1.txt (601 bytes)
+2025-06-16 01:52:03,429 - INFO -  Post 1 completed successfully
+2025-06-16 01:52:04,430 - INFO - 
+--- Processing 2/10 ---
+2025-06-16 01:52:04,431 - INFO -  Processing Post #2: ID 2
+2025-06-16 01:52:04,433 - INFO -  Title: qui est esse...
+2025-06-16 01:52:04,436 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:52:04,437 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:52:12,983 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:52:12,984 - INFO -  Saving document as: post 2.txt
+2025-06-16 01:52:19,515 - INFO -  File saved successfully: post 2.txt (587 bytes)
+2025-06-16 01:52:21,526 - INFO -  Post 2 completed successfully
+2025-06-16 01:52:22,527 - INFO - 
+--- Processing 3/10 ---
+2025-06-16 01:52:22,528 - INFO -  Processing Post #3: ID 3
+2025-06-16 01:52:22,530 - INFO -  Title: ea molestias quasi exercitationem repellat qui ips...
+2025-06-16 01:52:22,533 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:52:22,534 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:52:31,122 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:52:31,122 - INFO -  Saving document as: post 3.txt
+2025-06-16 01:52:37,643 - INFO -  File saved successfully: post 3.txt (592 bytes)
+2025-06-16 01:52:39,653 - INFO -  Post 3 completed successfully
+2025-06-16 01:52:40,654 - INFO - 
+--- Processing 4/10 ---
+2025-06-16 01:52:40,655 - INFO -  Processing Post #4: ID 4
+2025-06-16 01:52:40,658 - INFO -  Title: eum et est occaecati...
+2025-06-16 01:52:40,661 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:52:40,662 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:52:49,068 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:52:49,069 - INFO -  Saving document as: post 4.txt
+2025-06-16 01:52:55,590 - INFO -  File saved successfully: post 4.txt (579 bytes)
+2025-06-16 01:52:57,600 - INFO -  Post 4 completed successfully
+2025-06-16 01:52:58,602 - INFO - 
+--- Processing 5/10 ---
+2025-06-16 01:52:58,603 - INFO -  Processing Post #5: ID 5
+2025-06-16 01:52:58,605 - INFO -  Title: nesciunt quas odio...
+2025-06-16 01:52:58,608 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:52:58,609 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:53:06,515 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:53:06,516 - INFO -  Saving document as: post 5.txt
+2025-06-16 01:53:13,029 - INFO -  File saved successfully: post 5.txt (534 bytes)
+2025-06-16 01:53:15,037 - INFO -  Post 5 completed successfully
+2025-06-16 01:53:16,039 - INFO - 
+--- Processing 6/10 ---
+2025-06-16 01:53:16,039 - INFO -  Processing Post #6: ID 6
+2025-06-16 01:53:16,042 - INFO -  Title: dolorem eum magni eos aperiam quia...
+2025-06-16 01:53:16,045 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:53:16,046 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:53:24,685 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:53:24,685 - INFO -  Saving document as: post 6.txt
+2025-06-16 01:53:31,199 - INFO -  File saved successfully: post 6.txt (597 bytes)
+2025-06-16 01:53:33,205 - INFO -  Post 6 completed successfully
+2025-06-16 01:53:34,206 - INFO - 
+--- Processing 7/10 ---
+2025-06-16 01:53:34,207 - INFO -  Processing Post #7: ID 7
+2025-06-16 01:53:34,209 - INFO -  Title: magnam facilis autem...
+2025-06-16 01:53:34,212 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:53:34,213 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:53:42,087 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:53:42,088 - INFO -  Saving document as: post 7.txt
+2025-06-16 01:53:48,603 - INFO -  File saved successfully: post 7.txt (534 bytes)
+2025-06-16 01:53:50,613 - INFO -  Post 7 completed successfully
+2025-06-16 01:53:51,614 - INFO - 
+--- Processing 8/10 ---
+2025-06-16 01:53:51,615 - INFO -  Processing Post #8: ID 8
+2025-06-16 01:53:51,618 - INFO -  Title: dolorem dolore est ipsam...
+2025-06-16 01:53:51,620 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:53:51,621 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:53:59,927 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:53:59,928 - INFO -  Saving document as: post 8.txt
+2025-06-16 01:54:06,447 - INFO -  File saved successfully: post 8.txt (569 bytes)
+2025-06-16 01:54:08,455 - INFO -  Post 8 completed successfully
+2025-06-16 01:54:09,456 - INFO - 
+--- Processing 9/10 ---
+2025-06-16 01:54:09,457 - INFO -  Processing Post #9: ID 9
+2025-06-16 01:54:09,460 - INFO -  Title: nesciunt iure omnis dolorem tempora et accusantium...
+2025-06-16 01:54:09,463 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:54:09,464 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:54:17,589 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:54:17,589 - INFO -  Saving document as: post 9.txt
+2025-06-16 01:54:24,108 - INFO -  File saved successfully: post 9.txt (555 bytes)
+2025-06-16 01:54:26,116 - INFO -  Post 9 completed successfully
+2025-06-16 01:54:27,117 - INFO - 
+--- Processing 10/10 ---
+2025-06-16 01:54:27,118 - INFO -  Processing Post #10: ID 10
+2025-06-16 01:54:27,122 - INFO -  Title: optio molestias id quia eum...
+2025-06-16 01:54:27,124 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 01:54:27,125 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 01:54:34,966 - INFO -  Text typed using PyAutoGUI
+2025-06-16 01:54:34,967 - INFO -  Saving document as: post 10.txt
+2025-06-16 01:54:41,509 - INFO -  File saved successfully: post 10.txt (527 bytes)
+2025-06-16 01:54:41,509 - INFO -  Post 10 completed successfully
+2025-06-16 01:54:44,518 - INFO - 
+======================================================================
+2025-06-16 01:54:44,519 - INFO -  AUTOMATION COMPLETED!
+2025-06-16 01:54:44,522 - INFO -  Successfully processed: 10/10 posts
+2025-06-16 01:54:44,524 - INFO -  Failed to process: 0/10 posts
+2025-06-16 01:54:44,525 - INFO -  Files location: C:\Users\WIN 10\Desktop\tjm-project
+2025-06-16 01:54:44,528 - INFO -  Created files (10):
+2025-06-16 01:54:44,528 - INFO -     post 1.txt (601 bytes)
+2025-06-16 01:54:44,529 - INFO -     post 10.txt (527 bytes)
+2025-06-16 01:54:44,530 - INFO -     post 2.txt (587 bytes)
+2025-06-16 01:54:44,530 - INFO -     post 3.txt (592 bytes)
+2025-06-16 01:54:44,533 - INFO -     post 4.txt (579 bytes)
+2025-06-16 01:54:44,533 - INFO -     post 5.txt (534 bytes)
+2025-06-16 01:54:44,534 - INFO -     post 6.txt (597 bytes)
+2025-06-16 01:54:44,534 - INFO -     post 7.txt (534 bytes)
+2025-06-16 01:54:44,535 - INFO -     post 8.txt (569 bytes)
+2025-06-16 01:54:44,535 - INFO -     post 9.txt (555 bytes)
+2025-06-16 01:54:44,536 - INFO - ======================================================================
+2025-06-16 01:54:44,536 - INFO - 
+ REQUIREMENTS VERIFICATION:
+2025-06-16 01:54:44,536 - INFO -  BotCity and PyAutoGUI used
+2025-06-16 01:54:44,537 - INFO -  Notepad launched and automated
+2025-06-16 01:54:44,537 - INFO -  JSONPlaceholder API data fetched
+2025-06-16 01:54:44,538 - INFO -  Blog post format with title and content
+2025-06-16 01:54:44,540 - INFO -  Files saved in tjm-project directory
+2025-06-16 01:54:44,540 - INFO -  10 posts processed in loop
+2025-06-16 01:54:44,543 - INFO -  Error handling implemented
+2025-06-16 01:54:44,543 - INFO -  Files named: post 1.txt, post 2.txt, etc.
+2025-06-16 02:15:11,192 - INFO -  Initializing Windows Data Entry Bot...
+2025-06-16 02:15:11,195 - INFO -  Project directory ready: C:\Users\WIN 10\Desktop\tjm-project
+2025-06-16 02:15:11,195 - INFO - Bot initialized with BotCity and PyAutoGUI
+2025-06-16 02:15:11,195 - INFO -  Starting Automated Data Entry Bot
+2025-06-16 02:15:11,195 - INFO -  Project Requirements:
+2025-06-16 02:15:11,195 - INFO -     Use BotCity and PyAutoGUI
+2025-06-16 02:15:11,196 - INFO -     Launch Notepad
+2025-06-16 02:15:11,196 - INFO -     Fetch data from JSONPlaceholder API
+2025-06-16 02:15:11,196 - INFO -     Format as blog posts with title and content
+2025-06-16 02:15:11,196 - INFO -     Save in tjm-project directory
+2025-06-16 02:15:11,196 - INFO -     Process first 10 posts
+2025-06-16 02:15:11,196 - INFO -     Error handling implemented
+2025-06-16 02:15:11,196 - INFO -  Fetching posts from JSONPlaceholder API...
+2025-06-16 02:15:11,197 - INFO -  API URL: https://jsonplaceholder.typicode.com/posts
+2025-06-16 02:15:11,393 - INFO -  Successfully fetched 100 posts
+2025-06-16 02:15:11,394 - INFO -  Selected first 10 posts for processing
+2025-06-16 02:15:11,395 - INFO -  Launching Notepad using BotCity...
+2025-06-16 02:15:11,508 - ERROR -  BotCity failed to launch Notepad
+2025-06-16 02:15:11,508 - INFO -  Trying PyAutoGUI fallback...
+2025-06-16 02:15:11,509 - INFO -  Launching Notepad using PyAutoGUI fallback...
+2025-06-16 02:15:18,365 - INFO -  Notepad launched successfully via PyAutoGUI
+2025-06-16 02:15:18,366 - INFO -  Processing 10 posts...
+2025-06-16 02:15:18,366 - INFO - 
+--- Processing 1/10 ---
+2025-06-16 02:15:18,367 - INFO -  Processing Post #1: ID 1
+2025-06-16 02:15:18,368 - INFO -  Title: sunt aut facere repellat provident occaecati excep...
+2025-06-16 02:15:18,368 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:15:18,369 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:15:30,762 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:15:30,763 - INFO -  Saving document as: post 1.txt
+2025-06-16 02:15:37,591 - INFO -  File saved successfully: post 1.txt (601 bytes)
+2025-06-16 02:15:39,606 - INFO -  Post 1 completed successfully
+2025-06-16 02:15:40,607 - INFO - 
+--- Processing 2/10 ---
+2025-06-16 02:15:40,608 - INFO -  Processing Post #2: ID 2
+2025-06-16 02:15:40,616 - INFO -  Title: qui est esse...
+2025-06-16 02:15:40,617 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:15:40,619 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:15:52,889 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:15:52,890 - INFO -  Saving document as: post 2.txt
+2025-06-16 02:15:59,650 - INFO -  File saved successfully: post 2.txt (587 bytes)
+2025-06-16 02:16:01,664 - INFO -  Post 2 completed successfully
+2025-06-16 02:16:02,665 - INFO - 
+--- Processing 3/10 ---
+2025-06-16 02:16:02,666 - INFO -  Processing Post #3: ID 3
+2025-06-16 02:16:02,672 - INFO -  Title: ea molestias quasi exercitationem repellat qui ips...
+2025-06-16 02:16:02,673 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:16:02,675 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:16:15,189 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:16:15,191 - INFO -  Saving document as: post 3.txt
+2025-06-16 02:16:22,028 - INFO -  File saved successfully: post 3.txt (592 bytes)
+2025-06-16 02:16:24,038 - INFO -  Post 3 completed successfully
+2025-06-16 02:16:25,042 - INFO - 
+--- Processing 4/10 ---
+2025-06-16 02:16:25,045 - INFO -  Processing Post #4: ID 4
+2025-06-16 02:16:25,047 - INFO -  Title: eum et est occaecati...
+2025-06-16 02:16:25,049 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:16:25,052 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:16:36,978 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:16:36,982 - INFO -  Saving document as: post 4.txt
+2025-06-16 02:16:43,798 - INFO -  File saved successfully: post 4.txt (579 bytes)
+2025-06-16 02:16:45,835 - INFO -  Post 4 completed successfully
+2025-06-16 02:16:46,836 - INFO - 
+--- Processing 5/10 ---
+2025-06-16 02:16:46,836 - INFO -  Processing Post #5: ID 5
+2025-06-16 02:16:46,841 - INFO -  Title: nesciunt quas odio...
+2025-06-16 02:16:46,842 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:16:46,842 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:16:58,018 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:16:58,019 - INFO -  Saving document as: post 5.txt
+2025-06-16 02:17:04,829 - INFO -  File saved successfully: post 5.txt (534 bytes)
+2025-06-16 02:17:06,847 - INFO -  Post 5 completed successfully
+2025-06-16 02:17:07,848 - INFO - 
+--- Processing 6/10 ---
+2025-06-16 02:17:07,848 - INFO -  Processing Post #6: ID 6
+2025-06-16 02:17:07,854 - INFO -  Title: dolorem eum magni eos aperiam quia...
+2025-06-16 02:17:07,855 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:17:07,861 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:17:20,251 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:17:20,254 - INFO -  Saving document as: post 6.txt
+2025-06-16 02:17:26,948 - INFO -  File saved successfully: post 6.txt (597 bytes)
+2025-06-16 02:17:28,968 - INFO -  Post 6 completed successfully
+2025-06-16 02:17:29,971 - INFO - 
+--- Processing 7/10 ---
+2025-06-16 02:17:29,972 - INFO -  Processing Post #7: ID 7
+2025-06-16 02:17:29,975 - INFO -  Title: magnam facilis autem...
+2025-06-16 02:17:29,981 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:17:29,982 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:17:41,073 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:17:41,074 - INFO -  Saving document as: post 7.txt
+2025-06-16 02:17:47,821 - INFO -  File saved successfully: post 7.txt (534 bytes)
+2025-06-16 02:17:49,845 - INFO -  Post 7 completed successfully
+2025-06-16 02:17:50,847 - INFO - 
+--- Processing 8/10 ---
+2025-06-16 02:17:50,848 - INFO -  Processing Post #8: ID 8
+2025-06-16 02:17:50,853 - INFO -  Title: dolorem dolore est ipsam...
+2025-06-16 02:17:50,855 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:17:50,857 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:18:02,587 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:18:02,588 - INFO -  Saving document as: post 8.txt
+2025-06-16 02:18:09,403 - INFO -  File saved successfully: post 8.txt (569 bytes)
+2025-06-16 02:18:11,427 - INFO -  Post 8 completed successfully
+2025-06-16 02:18:12,428 - INFO - 
+--- Processing 9/10 ---
+2025-06-16 02:18:12,429 - INFO -  Processing Post #9: ID 9
+2025-06-16 02:18:12,441 - INFO -  Title: nesciunt iure omnis dolorem tempora et accusantium...
+2025-06-16 02:18:12,444 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:18:12,445 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:18:23,656 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:18:23,657 - INFO -  Saving document as: post 9.txt
+2025-06-16 02:18:30,371 - INFO -  File saved successfully: post 9.txt (555 bytes)
+2025-06-16 02:18:32,385 - INFO -  Post 9 completed successfully
+2025-06-16 02:18:33,386 - INFO - 
+--- Processing 10/10 ---
+2025-06-16 02:18:33,387 - INFO -  Processing Post #10: ID 10
+2025-06-16 02:18:33,392 - INFO -  Title: optio molestias id quia eum...
+2025-06-16 02:18:33,394 - ERROR -  BotCity typing failed: 'WindowsDataEntryBot' object has no attribute 'type_text'
+2025-06-16 02:18:33,395 - INFO -  Using PyAutoGUI for typing...
+2025-06-16 02:18:43,819 - INFO -  Text typed using PyAutoGUI
+2025-06-16 02:18:43,825 - INFO -  Saving document as: post 10.txt
+2025-06-16 02:18:50,565 - INFO -  File saved successfully: post 10.txt (527 bytes)
+2025-06-16 02:18:50,566 - INFO -  Post 10 completed successfully
+2025-06-16 02:18:53,578 - INFO - 
+======================================================================
+2025-06-16 02:18:53,581 - INFO -  AUTOMATION COMPLETED!
+2025-06-16 02:18:53,584 - INFO -  Successfully processed: 10/10 posts
+2025-06-16 02:18:53,585 - INFO -  Failed to process: 0/10 posts
+2025-06-16 02:18:53,588 - INFO -  Files location: C:\Users\WIN 10\Desktop\tjm-project
+2025-06-16 02:18:53,592 - INFO -  Created files (10):
+2025-06-16 02:18:53,594 - INFO -     post 1.txt (601 bytes)
+2025-06-16 02:18:53,595 - INFO -     post 10.txt (527 bytes)
+2025-06-16 02:18:53,597 - INFO -     post 2.txt (587 bytes)
+2025-06-16 02:18:53,604 - INFO -     post 3.txt (592 bytes)
+2025-06-16 02:18:53,606 - INFO -     post 4.txt (579 bytes)
+2025-06-16 02:18:53,616 - INFO -     post 5.txt (534 bytes)
+2025-06-16 02:18:53,619 - INFO -     post 6.txt (597 bytes)
+2025-06-16 02:18:53,624 - INFO -     post 7.txt (534 bytes)
+2025-06-16 02:18:53,635 - INFO -     post 8.txt (569 bytes)
+2025-06-16 02:18:53,638 - INFO -     post 9.txt (555 bytes)
+2025-06-16 02:18:53,638 - INFO - ======================================================================
+2025-06-16 02:18:53,643 - INFO - 
+ REQUIREMENTS VERIFICATION:
+2025-06-16 02:18:53,644 - INFO -  BotCity and PyAutoGUI used
+2025-06-16 02:18:53,646 - INFO -  Notepad launched and automated
+2025-06-16 02:18:53,654 - INFO -  JSONPlaceholder API data fetched
+2025-06-16 02:18:53,665 - INFO -  Blog post format with title and content
+2025-06-16 02:18:53,668 - INFO -  Files saved in tjm-project directory
+2025-06-16 02:18:53,672 - INFO -  10 posts processed in loop
+2025-06-16 02:18:53,674 - INFO -  Error handling implemented
+2025-06-16 02:18:53,674 - INFO -  Files named: post 1.txt, post 2.txt, etc.

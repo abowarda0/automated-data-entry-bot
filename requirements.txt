@@ -1,0 +1,6 @@
+pyautogui
+requests
+botcity-core
+botcity-maestro
+opencv-python
+numpy
