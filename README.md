@@ -13,7 +13,7 @@ This Python script automates data entry into Notepad on Windows. It fetches the 
 - Uses `subprocess` to launch Notepad
 - Saves output as `post <id>.txt`
 - Basic error handling for launch and save errors
-- Optional: Uses `BotCity` and `OpenCV` for future extension (template matching, image-based automation, etc.)
+
 
 ---
 download and watch the demo from https://github.com/abowarda0/automated-data-entry-bot/blob/main/demo.mp4
