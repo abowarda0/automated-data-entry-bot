@@ -30,3 +30,6 @@ botcity-core
 botcity-maestro
 opencv-python
 numpy
+
+## Demo
+Click to watch: [Demo Video] https://github.com/abowarda0/automated-data-entry-bot/blob/main/demo.mp4
