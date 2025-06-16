@@ -16,7 +16,7 @@ This Python script automates data entry into Notepad on Windows. It fetches the 
 - Optional: Uses `BotCity` and `OpenCV` for future extension (template matching, image-based automation, etc.)
 
 ---
-
+download and watch the demo from https://github.com/abowarda0/automated-data-entry-bot/blob/main/demo.mp4
 ##  Requirements
 
 Install dependencies:
